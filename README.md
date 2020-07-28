@@ -55,6 +55,20 @@ react-dom: ^16.13.1 |
 react-scripts: ^3.4.1 |
 react-router-dom: ^5.2.0 |
 
+## Screenshots
+<a href="">
+   <img src="https://github.com/sharangramana/Sorting-Visualizer/blob/master/screenshots/Capture.PNG">
+</a><br>  
+<a href="">
+   <img src="https://github.com/sharangramana/Sorting-Visualizer/blob/master/screenshots/Capture1.PNG">
+</a><br>
+<a href="">
+   <img src="https://github.com/sharangramana/Sorting-Visualizer/blob/master/screenshots/Capture3.PNG">
+</a><br>
+
+## Heroku Link
+<a href="https://algorithmvisualizersharang.herokuapp.com/">https://algorithmvisualizersharang.herokuapp.com/</a>
+
 ## BUGs or comments
 [Create new Issues](https://github.com/sharangramana/Sorting-Visualizer/issues) (preferred)
 Email Me: sharangramana20@gmail.com
