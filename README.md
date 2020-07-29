@@ -71,6 +71,7 @@ react-router-dom: ^5.2.0 |
 
 ## BUGs or comments
 [Create new Issues](https://github.com/sharangramana/Sorting-Visualizer/issues) (preferred)
+<br>
 Email Me: sharangramana20@gmail.com
 
 ### License
