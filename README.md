@@ -18,7 +18,7 @@ React, Nodejs, HTML, CSS, BOOTSTRAP
    </a>
 </p>
 
-> It's a sorint visualizer app implemented in React, Nodejs.
+> It's a sorting visualizer app implemented in React and Nodejs.
 
 ## clone or download
 ```terminal
